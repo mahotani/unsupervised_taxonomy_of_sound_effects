@@ -1,1 +1,6 @@
-# unsupervised_taxonomy_of_sound_effects
+# UNSUPERVISED TAXONOMY OF SOUND EFFECTS
+
+**link:**
+https://www.dafx.de/paper-archive/2017/papers/DAFx17_paper_26.pdf
+
+## 0. ABSTRACT
